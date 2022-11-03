@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "harlem-codesign",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -18,6 +18,8 @@
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
+    "mapbox-gl": "^2.10.0",
+    "scrollama": "^3.2.0",
     "text-balancer": "^1.0.5"
   },
   "browserslist": [
@@ -33,6 +35,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1xMyVtgjwEYaZcZNuWfwEjHwJuVFnaijPnvrgp0Ftexc/edit"
   }
 }

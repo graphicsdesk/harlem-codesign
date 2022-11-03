@@ -7,12 +7,332 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "On September 15, a group of graduate students planned to meet in their classroom, buried deep in the labyrinth of a 15-floor brutalist building, home to the School of International and Public Affairs. From there, they would leave campus through Morningside Park, climbing down to Harlem’s epicentral 125th Street. At a building whose floor-to-ceiling windows were taped over with brown paper stretched along the sidewalk—skeletal metal numbers marking the otherwise unmarked storefront at 66 West—they would arrive at the headquarters of the 125th Street Business Improvement District."
+          },
+          {
+            "type": "text",
+            "value": "The trip was part of the curriculum of a <a href=\"https://bulletin.columbia.edu/sipa/registration/new-courses/\">new</a> SIPA class called Co-Designing Smart Cities. In the course, described in its syllabus as “a practical course in which teams of students research challenges that have been identified by Harlem’s 125th Street Business Improvement District,” groups of SIPA students would be directed to make policy recommendations to the association of property and business owners, community and government leaders, and residents."
+          },
+          {
+            "type": "text",
+            "value": "But the class gained a viral profile after Twitter user @<a href=\"https://twitter.com/AchmatX\">AchmatX</a>—who is located in the Bronx and self-identifies as a “U.S. Ambassador to Harlem,” according to their account—posted on September 16 that Columbia had a course meant to “‘redesign’ Harlem.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "Less than a week later, Low Plaza was full of students from the United Front Against Displacement <a href=\"https://www.columbiaspectator.com/news/2022/09/26/viral-tweet-about-sipa-course-to-redesign-harlem-incites-backlash-dean-calls-it-mischaracterized/\">protesting gentrification</a>, holding signs with messages like “Columbia Out of Harlem.” Third on the group’s <a href=\"https://www.instagram.com/p/Ci0RAGkr66s/\">list of demands</a> was that Columbia “[i]mmediately cancel the PUAF U6249 Class ‘Co-Designing Smart Cities.’”"
+          },
+          {
+            "type": "text",
+            "value": "The digital storm has swept beyond the original tweet’s 10,400 likes and 4,000 retweets, spurring conversations, protests, and a reassessment of the roles that SIPA, Columbia, and academia play in Harlem."
+          },
+          {
+            "type": "text",
+            "value": "<b>The Aftermath of the Twitter Storm</b>"
+          },
+          {
+            "type": "text",
+            "value": "Achmat X has remained elusive—they never directly responded to <a href=\"https://twitter.com/EPluribusMarcus/status/1571217430663368704\">other users’ questions</a> about the <a href=\"https://twitter.com/vsthill/status/1571171100423241735\">class’s specifics</a> or to repeated inquiries from <i>The Eye</i>. But the resulting discourse kicked SIPA’s administration into high gear, as administrators disputed some of the controversial claims about the course. A week after Achmat posted, Dean of SIPA Keren Yahri-Milo sent a SIPA-wide email stating that the tweet was a mischaracterization and describing the course as an opportunity for students “making (and explaining) recommendations to stakeholders” to address “challenges identified by community members.”"
+          },
+          {
+            "type": "text",
+            "value": "[read more: <a href=\"https://www.columbiaspectator.com/news/2022/09/26/viral-tweet-about-sipa-course-to-redesign-harlem-incites-backlash-dean-calls-it-mischaracterized/\">link news article</a>]"
+          },
+          {
+            "type": "text",
+            "value": "SIPA also moved to organize two public forums: a community circle open to those in the course and a diversity, equity, inclusion, climate & engagement committee meeting. At the community circle, according to a student attendee, students discussed concerns about the course’s lack of curriculum on Columbia’s positioning in Harlem. At the committee meeting, students, faculty members, and Yarhi-Milo discussed the Twitter thread’s characterization of the course."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "The next morning, SIPA’s administration sent another email out to their students clarifying the course’s aim and defending SIPA’s intentions."
+          },
+          {
+            "type": "text",
+            "value": "“We know our students benefit from direct engagement with both organizations and individual"
+          },
+          {
+            "type": "text",
+            "value": "residents, and we strongly believe that the Harlem community benefits, in turn from our faculty"
+          },
+          {
+            "type": "text",
+            "value": "and student contributions,” the email read. “One of our courses was recently mischaracterized in a public forum.”"
+          },
+          {
+            "type": "text",
+            "value": "Now, one month after the tweet, the controversy has largely died down. Despite calls from students, organizers, and others not affiliated with Columbia to cancel the course, it continues to meet for two hours every Thursday."
+          },
+          {
+            "type": "text",
+            "value": "<i>The Eye</i> obtained the class syllabus, student enrollment information, and interviews with enrolled students regarding the course. The patchwork of information reveals a story of a class that remains nebulous in the community discourse between Columbia and Harlem. Since the wave of public attention, the course has turned only more conceptual—even though its original design has been clarified, its place in the larger conversation about SIPA and Columbia’s place in Harlem remains fuzzy."
+          },
+          {
+            "type": "text",
+            "value": "<b>Who is “Co-Designing Smart Cities”?</b>"
+          },
+          {
+            "type": "text",
+            "value": "One of the central claims of Achmat’s Twitter thread was that the class is composed of mainly non-Black international students. In reality, the demographics of the class—and SIPA as a whole—are slightly different than the tweet portrays."
+          },
+          {
+            "type": "text",
+            "value": "According to SIPA’s 2020-21 <a href=\"https://www.sipa.columbia.edu/experience-sipa/about-sipa/annual-report/2020-2021\">annual report</a>, 51 percent of their 1,272 <a href=\"https://www.sipa.columbia.edu/experience-sipa/about-sipa/annual-report/2020-2021/students\">students</a> are international. Based on a class list <i>The Eye</i> obtained and cross-checked with student LinkedIn profiles, 20 of the 22 students in the class are SIPA students, and six completed their undergraduate degree abroad—although undergraduate institution location notably does not indicate where a student identifies as their home country. SIPA declined to provide demographic information for its current Master of Public Administration class to <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "Erika Whillas, the course instructor, got her doctorate in philosophy and sustainable futures from University of Technology Sydney in 2021. Her <a href=\"https://opus.lib.uts.edu.au/bitstream/10453/159780/1/01front.pdf\">thesis</a> formed recommendations for mapping technology to foster collaborative co-design of New York City’s green spaces. Whillas has not responded to repeated requests for comment from <i>The Eye</i>."
+          },
+          {
+            "type": "text",
+            "value": "The issue of representation is complicated by the high price of a graduate degree from SIPA, which does not promise to cover full financial need. The total estimated cost for their Master of Public Administration, Master of International Affairs, and MPA in Development Practice programs is $96,055 for one year, $70,113 of which are direct costs charged by the University."
+          },
+          {
+            "type": "text",
+            "value": "<b>The Readings</b>"
+          },
+          {
+            "type": "text",
+            "value": "Throughout the course’s 14 weeks, the students are assigned 25 readings. 48 of the 54 authors were affiliated with an international university, organization, or business."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "map.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The course syllabus lacks reading material on Harlem’s history or Columbia’s relationship with the neighborhood. Instead, the readings are dominated by future-focused urban design scholarship, and the fuzziness around their applications to Harlem remains."
+          },
+          {
+            "type": "text",
+            "value": "“Smart cities recognize the centrality of technology and information to improve their processes by connecting people, data, and things,” the course description <a href=\"https://bulletin.columbia.edu/search/?search=co-designing+smart+cities\">reads</a>."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "The readings range from obscure managerial <a href=\"https://www.sciencedirect.com/science/article/pii/S0148296315000387\">flowcharts</a> to mostly international case studies. One reading <a href=\"https://www.sciencedirect.com/science/article/pii/S0143622813002531\">includes</a> domestic applications of public participation geographic information system technology in a broader worldwide analysis."
+          },
+          {
+            "type": "text",
+            "value": "“The holistic urban system, or ecosystem, allows co-creation among all stakeholders,” a reading from the week of the field trip <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0148296315000387\">reads</a>. “Coordination and leadership roles can shift from one actor to another depending on the identity, resources, and ecosystem readiness.”"
+          },
+          {
+            "type": "text",
+            "value": "In the course readings, there are consistent engagements with technology use in governing—including data-gathering, surveillance, and artificial intelligence."
+          },
+          {
+            "type": "text",
+            "value": "One reading points out that “growing backlash from the privacy and surveillance sectors warns of the potential threat to personal privacy posed by smart cities.” Yet, according to students in the course, the practicum class is largely based on research for the final project’s suggestions to the BID, rather than the prescribed course readings."
+          },
+          {
+            "type": "text",
+            "value": "“We honestly don’t really talk about smart cities,” a student in the course, who spoke on the condition of anonymity due to concerns of harassment, said. “When it was presented to us in the first class, it was more so of ‘We’re gonna think about policymaking and how technology can maybe play into solutions.’ So we had a bit of a conversation about smart cities and its ethics.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The Origin of the Course</b>"
+          },
+          {
+            "type": "text",
+            "value": "Unmentioned in the syllabus is that the 125th Street BID had proposed the course—information that the BID clarified in a statement to Spectator. BID’s president, Barbara Askins, had previously taught a workshop at SIPA."
+          },
+          {
+            "type": "text",
+            "value": "The 125th Street Management Association <a href=\"https://harlembid.com/about-us/\">manages</a> the BID and is financed by local property and business owners. While the BID works closely with local residents, there is only one board member <a href=\"https://harlembid.com/board-of-directors/\">classified</a> as a residential tenant. Other <a href=\"https://www.sipa.columbia.edu/faculty-research/faculty-directory/ester-r-fuchs\">board members</a> are categorized as property owners, commercial tenants, government officials, and community & affiliates—including Ester Fuchs, director of the urban and social policy program at SIPA."
+          },
+          {
+            "type": "text",
+            "value": "“The BID does work with consultants and universities to assist their work,” the BID wrote in a statement to Spectator. “This includes hiring interns dedicated to special projects, conducting research studies on problems, and investigating how to use technology to improve the district and make the BID’s operations more efficient. This academic relationship includes partnering with different universities and Columbia is one of them.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>New Course, Familiar Concept</b>"
+          },
+          {
+            "type": "text",
+            "value": "On a Tuesday morning, four days after Achmat X posted their Twitter thread, the New York Public Library’s Schomburg Center for Research in Black Culture <a href=\"https://harlemconditions.cityofnewyork.us/conference/\">began</a> a daylong conference called “Conditions in Harlem Revisited: From the 1936 Mayor’s Commission Report to Today.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "Focused on the New York City report following the Harlem riot of 1935, the event took a deep dive into social issues and systemic change—or lack thereof—in the years since, effectively using the 20th century report as a hyper-localized case study on a past Harlem. Among the event’s <a href=\"https://harlemconditions.cityofnewyork.us/about-us/\">sponsors</a> was New York University’s McSilver Institute for Poverty Policy and Research. Of the 30 <a href=\"https://www1.nyc.gov/assets/records/pdf/2022-09-20HarlemRevisitedPanels.pdf\">speakers</a> there, 10 held Columbia affiliations—either through a degree, with two holding degrees from SIPA, program, or current employment—but the University was not officially involved."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "In 1936, the LaGuardia administration <a href=\"https://www.proquest.com/hnpnewamsterdamnews/docview/226213682/9A4E97AF93594C5FPQ/14?accountid=35635\">refused</a> to release the riot report, with the Amsterdam News, a Black-owned newspaper, unofficially <a href=\"https://www.proquest.com/hnpnewamsterdamnews/docview/226124102/A3CF18FFBD0B435APQ/28?accountid=35635\">publishing</a> it in serial form. This past summer, archivists with the New York City Department of Records and Information Services worked to digitize the report and host community focus groups—like those the original report’s commision held—with project partners, culminating in the September conference."
+          },
+          {
+            "type": "text",
+            "value": "In an afternoon panel on “Education and Recreation”—modeled after the 1936 report’s original sections—<a href=\"https://www.ccny.cuny.edu/profiles/terri-watson\">associate professor of educational leadership</a> at the City College of New York Terri Watson moderated."
+          },
+          {
+            "type": "text",
+            "value": "“I saw a tweet the other day about how Columbia University has just been contracted to redesign Harlem, it’s part of a political science class,” Watson said. “So once again we’re being acted upon as if our people have no agency, and I say this as a Harlemite.”"
+          },
+          {
+            "type": "text",
+            "value": "In an interview five days after the event, another speaker on that panel, Basil Smikle, SIPA ’96—distinguished lecturer and director of the public policy program at the Roosevelt House Public Policy Institute at Hunter College and a Bronx native—spoke about Columbia’s position in Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“Subsequent to the controversies in ’68, Columbia has always sort of tried to engage in this delicate balance with working with the surrounding community, but not exploiting it,” Smikle explained."
+          },
+          {
+            "type": "text",
+            "value": "Smikle clarified Columbia’s positionality in Harlem, and implications of the University’s power."
+          },
+          {
+            "type": "text",
+            "value": "“With respect to Harlem, Columbia was this big prestigious institution that can get whatever it wants, and that’s why I say that there has to be this really reciprocal relationship, where the community’s interests are privileged over what the institution needs,” Smikle shared."
+          },
+          {
+            "type": "text",
+            "value": "During his time as a SIPA student, Smikle worked with the Upper Manhattan Empowerment Zone to “advise on some early funding priorities for [Harlem].” He later consulted on Columbia’s expansion to West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "The pattern of University footprints into surrounding urban communities extends nationwide. In the Twitter thread, users pointed to other examples of gentrification caused by private universities, from the <a href=\"https://twitter.com/adri16/status/1571311758526279681\">University of Southern California’s location in Los Angeles</a> to <a href=\"https://twitter.com/VLJcreates/status/1571172872927813634\">Johns Hopkins in Baltimore</a>. Alexios Rosario-More, clinical associate professor of educational policy studies at University of Illinois Chicago, <a href=\"https://twitter.com/AlexiosAsText/status/1571202931935821826\">pointed</a> to the UChicago-Gary Urban Revitalization Project as “not a good look” for that university, where its Harris School of Public Policy intervened in the economically <a href=\"https://www.huduser.gov/portal/publications/pdf/Gary_SC2_FactSheet.pdf\">blighted</a>, former manufacturing town with the support of then-Mayor Richard M. Daley."
+          },
+          {
+            "type": "text",
+            "value": "But modeling the course after the <a href=\"https://datadrivendetroit.org/\">Data Driven Detroit</a> nonprofit in addition to <a href=\"https://www.youtube.com/watch?v=fcyufa-T598\">community surveys and flyering</a>, the project <a href=\"https://www.jstor.org/stable/resrep24401\">successfully</a> “reduc[ed] the number of vacant buildings by 18.5 percent in just six years.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "<b>From the Syllabus to the Steps</b>"
+          },
+          {
+            "type": "text",
+            "value": "On the afternoon of Thursday, September 22, Low Plaza filled with students protesting with UFAD organizers—whose gray shirts featured the words “NYCHA Tenants Say NO” with a red cross-through symbol—and <a href=\"https://amsterdamnews.com/news/2022/09/29/overgrown-ivy-columbia-universitys-encroachment-on-harlem-sparks-campus-protest/\">local journalists</a>. They slowly set up a bare-bones speaker system while a crowd of students cycled in and out around a core group of UFAD and undergraduate organizers."
+          },
+          {
+            "type": "text",
+            "value": "“We united are stronger,” Udonne Eke-Okoro, a Barnard sophomore and member of Student Worker Solidarity—a labor organization on campus—said, speaking after UFAD read their list of demands. “And we can start by organizing against that SIPA class that many of us I think saw online.”"
+          },
+          {
+            "type": "text",
+            "value": "The rally started from a partnership between UFAD and two Columbia undergraduate student groups, Columbia Housing Equity Project and SWS. Maeve Cunningham, a Barnard sophomore associated with SWS, said UFAD attended the organization’s September 20 meeting and subsequently formulated demands for the rally."
+          },
+          {
+            "type": "text",
+            "value": "The organization’s <a href=\"https://www.instagram.com/p/Ci0RAGkr66s/\">third demand</a> was the cancellation of the Co-Designing Smart Cities course—specifically due to the potential for “smart cities” to bleed over into artificial intelligence and surveillance technologies—with promotion for the rally soon spreading across social media. Asked where they had learned about the course, Cunningham whipped out their phone to show <a href=\"https://www.instagram.com/decolonizethisplace/\">@decolonizethisplace</a>’s September 18 post."
+          },
+          {
+            "type": "text",
+            "value": "“That’s how I learned about [the class],” Cunningham said. “Because even people who don’t go to Columbia, my friends just in New York City were posting it, and I was like, that makes me want to crawl out of my skin.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "The Instagram account is an <a href=\"https://decolonizethisplace.org/\">outlet</a> of the “action-oriented movement and decolonial formation” by the same name, whose followers include the likes of Congresswoman Alexandria Ocasio-Cortez. Amin Husain—one of the four typically-faceless administrators of the account and a part-time <a href=\"https://gallatin.nyu.edu/people/faculty/amh20.html\">faculty member</a> at NYU with a 2004 Columbia master of laws degree—found Achmat’s tweet and reposted it, adding class listing information in another post the next day following questions about its specifics."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": ""
+            }
+          },
+          {
+            "type": "text",
+            "value": "“We can’t lead,” Husain said. “We lead where we are. But there are many leaders … I think students should have a say in their syllabi.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Revisions</b>"
+          },
+          {
+            "type": "text",
+            "value": "The class continues to meet for almost two hours every week, with groups of students still working on final projects in the form of policy recommendations. They are expected to present these recommendations to the class and BID representatives. The course originally planned to work alongside the 125th BID and host guest speakers, but on September 26, Whillas sent an email to enrolled students with the subject line “Class projects.”"
+          },
+          {
+            "type": "text",
+            "value": "“Given the impact the mis-information from last week’s twitter thread has generated, changes are being made to the class that allow us to achieve our goals: to investigate the challenges identified by the 125th Street BID and identify how technological innovations could be used to help address these challenges,” Whillas wrote."
+          },
+          {
+            "type": "text",
+            "value": "Whillas continued that “the 125th BID and its stakeholders will not be presenting to the class or engaging in interviews with the class.” The 125th BID’s participation is now limited to providing the original list of issues to address, attending final class project presentations, and providing written feedback. According to a student in the course, at least one guest speaker has been canceled."
+          },
+          {
+            "type": "text",
+            "value": "While still focused on the challenges identified by the BID, the students will “now focus on how other urban areas have addressed these challenges,” moving more into the theoretical applications of technological solutions and away from a historical or sociological approach."
+          },
+          {
+            "type": "text",
+            "value": "A student in the course said that while the tweet overstated the power of the class initially, their projects have grown more detached from a community-centered social science approach."
+          },
+          {
+            "type": "text",
+            "value": "“The way the class has changed because of all the backlash is that we’re not really engaging with community members,” the student said. “We’re not engaging with the BID as much or [with] any agencies that the BID works with that they had initially offered for us to be able to talk to them as well.”"
+          },
+          {
+            "type": "text",
+            "value": "Since the tweet thrust the class into the forum of public opinion, the class has turned inward, growing more toward the abstract—a tension inherent in the framework of “SMART cities” established in the course’s very first assignment."
+          },
+          {
+            "type": "text",
+            "value": "“The term ‘smart cities’ is a widely used, but at the same time a highly fuzzy concept,” the course’s first reading assignment, published in the Journal of Open Innovation, <a href=\"https://jopeninnovation.springeropen.com/articles/10.1186/s40852-016-0034-z\">reads</a>. “The fuzziness hinders our understanding on the benefits of its adoption, and explains the existence of many relevant activities with fragmented or distorted views of what a truly smart city is.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Eye Deputy Editor Caelan Bailey can be contacted at </i><a href=\"mailto:caelan.bailey@columbiaspectator.com\"><i>caelan.bailey@columbiaspectator.com</i></a><i>. Eye Staff Writer Ysabella Titi can be contacted at </i><a href=\"mailto:ysabella.titi@columbiaspectator.com\"><i>ysabella.titi@columbiaspectator.com</i></a><i>.</i><i> Follow The Eye on </i><a href=\"https://www.instagram.com/theeye.mag/\"><i>Instagram</i></a><i>.</i>"
+          }
+        ],
+        "headline": "Co-Designing Smart Cities: SIPA’s Viral Course and Its Impact on Harlem",
+        "date": "October 31, 2022",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Caelan-Bailey/\">Caelan Bailey</a> and <a href=\"https://www.columbiaspectator.com/contributors/Ysabella-Titi/\">Ysabella Titi</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Annie-Cheng/\">Annie Cheng</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1xMyVtgjwEYaZcZNuWfwEjHwJuVFnaijPnvrgp0Ftexc/edit"
       }
     }
   }
